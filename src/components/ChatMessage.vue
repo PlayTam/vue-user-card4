@@ -1,4 +1,7 @@
 <template>
+  <div class="ChatMessage">
+    
+  </div>
 </template>
 <script>
 export default {
