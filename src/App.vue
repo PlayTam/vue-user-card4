@@ -14,6 +14,8 @@ export default {
   name: "App",
   components: {
     Container,
+    ChatWindow,
+    ChatMessage,
   },
 };
 </script>
