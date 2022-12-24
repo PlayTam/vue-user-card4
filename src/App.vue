@@ -1,7 +1,8 @@
 <template>
 <Container>
 <ChatWindow>
-<ChatMessage>
+<ChatMessage username="Ivan" time="21.12.2019 05:00:50">
+  Hello, World!!!
 </ChatMessage>
 </ChatWindow>
 </Container>
